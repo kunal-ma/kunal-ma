@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=kunal-ma&color=red)](https://github.com/kunal-ma)
-[![Wakatime Stat](https://wakatime.com/badge/user/be52e3d2-510d-487f-b861-e4b1823a4d38.svg)](https://wakatime.com/@be52e3d2-510d-487f-b861-e4b1823a4d38)
+[![Wakatime Stat](https://wakatime.com/badge/user/018df9ad-64cd-4551-9beb-ef560aba8275.svg)](https://wakatime.com/@018df9ad-64cd-4551-9beb-ef560aba8275)
 [![GitHub Stars](https://img.shields.io/github/stars/kunal-ma?color=yellow&style=flat&label=Stars)](https://github.com/kunal-ma?tab=repositories)
 [![Busy Tracker](https://img.shields.io/badge/Busy-Yes-4cc61e)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Website](https://img.shields.io/badge/Website-8A2BE2?logo=microsoftedge&logoColor=white)](https://kunalma.carrd.co)
