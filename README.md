@@ -5,7 +5,6 @@
 [![Website](https://img.shields.io/badge/Website-8A2BE2?logo=microsoftedge&logoColor=white)](https://kunalma.carrd.co)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:kunalma.2003@gmail.com)
 [![Website](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ma)
-[![GitHub Gists](https://img.shields.io/badge/Gists-333333?logo=github&logoColor=white)](https://gist.github.com/kunal-ma)
 
 ```js
 class SoftwareDeveloper {
