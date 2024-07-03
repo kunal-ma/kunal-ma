@@ -3,8 +3,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/kunal-ma?color=yellow&style=flat&label=Stars)](https://github.com/kunal-ma?tab=repositories)
 [![Busy Tracker](https://img.shields.io/badge/Busy-Yes-4cc61e)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Website](https://img.shields.io/badge/Website-8A2BE2?logo=microsoftedge&logoColor=white)](https://kunal-ma.github.io)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:kunalma.2003@gmail.com)
-[![Website](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ma)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:kunalma.2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ma)
 
 ```js
 class SoftwareDeveloper {
@@ -37,8 +37,8 @@ me.sayHi();
 ### Languages and Frameworks:
 
 <a href="https://isocpp.org"><img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/cplusplus.svg" style="padding-right:10px;" /></a>
-<a href="https://kotlinlang.org"><img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/kotlin.svg" style="padding-right:10px;" /></a>
 <a href="https://www.python.org"><img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/python.svg" style="padding-right:10px;" /></a>
+<a href="https://kotlinlang.org"><img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/kotlin.svg" style="padding-right:10px;" /></a>
 <a href="https://html.spec.whatwg.org"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/html5.svg" style="padding-right:10px;" /></a>
 <a href="https://www.w3.org/Style/CSS"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/css3.svg" style="padding-right:10px;" /></a>
 <a href="https://javascript.info"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/img/svg/javascript.svg" style="padding-right:10px;" /></a>
