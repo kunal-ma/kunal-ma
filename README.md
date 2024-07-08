@@ -28,11 +28,11 @@ me.sayHi();
 
 <br>
 
-- 🎓 Pursuing my 4th year of B.Tech IT at Manipal University Jaipur.
+- 🎓 Pursuing my 4th year of B.Tech IT at Manipal University Jaipur
 - 🧪 Currently working with C++ and Kotlin
 - 🏸 Avid badminton and chess player
 - 🌱 Love working on random projects in my free time
-- ⚡ Fun Fact: The first webcam was created to monitor a coffee pot.
+- ⚡ Fun Fact: The first webcam was created to monitor a coffee pot
 
 ### Languages and Frameworks:
 
