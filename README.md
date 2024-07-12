@@ -2,7 +2,7 @@
 [![Wakatime Stat](https://wakatime.com/badge/user/018df9ad-64cd-4551-9beb-ef560aba8275.svg)](https://wakatime.com/@018df9ad-64cd-4551-9beb-ef560aba8275)
 [![GitHub Stars](https://img.shields.io/github/stars/kunal-ma?color=yellow&style=flat&label=Stars)](https://github.com/kunal-ma?tab=repositories)
 [![Busy Tracker](https://img.shields.io/badge/Busy-Yes-4cc61e)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![Website](https://img.shields.io/badge/Website-8A2BE2?logo=microsoftedge&logoColor=white)](https://kunal-ma.github.io)
+[![Website](https://img.shields.io/badge/Website-8A2BE2?logo=firefox&logoColor=white)](https://kunal-ma.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:kunalma.2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-ma)
 
