@@ -33,26 +33,26 @@ me.sayHi();
 
 ### Languages:
 
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="C" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/c.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="C++" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/cplusplus.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Python" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/python.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Java" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/java.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Kotlin" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/kotlin.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="HTML" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/html.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="CSS" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/css.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="JavaScript" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/javascript.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="TypeScript" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/typescript.png" />
+<img align="left" height=26px style="padding-right:5px" title="C" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/c.png" />
+<img align="left" height=26px style="padding-right:5px" title="C++" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/cplusplus.png" />
+<img align="left" height=26px style="padding-right:5px" title="Python" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/python.png" />
+<img align="left" height=26px style="padding-right:5px" title="Java" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/java.png" />
+<img align="left" height=26px style="padding-right:5px" title="Kotlin" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/kotlin.png" />
+<img align="left" height=26px style="padding-right:5px" title="HTML" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/html.png" />
+<img align="left" height=26px style="padding-right:5px" title="CSS" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/css.png" />
+<img align="left" height=26px style="padding-right:5px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/javascript.png" />
+<img align="left" height=26px style="padding-right:5px" title="TypeScript" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/typescript.png" />
 
 <br><br>
 
 ### Frameworks & Tools:
 
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/jetpack.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/tensorflow.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Streamlit" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/streamlit.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Node.js" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/nodejs.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="React.js" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/reactjs.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Electron" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/electron.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="MongoDB" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/mongodb.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Docker" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/docker.png" />
-<img align="left" style="padding-right:10px; max-width: 26px; max-height: 26px;" title="Photoshop" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/photoshop.png" />
+<img align="left" height=26px style="padding-right:5px" title="Jetpack Compose" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/jetpack.png" />
+<img align="left" height=26px style="padding-right:5px" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/tensorflow.png" />
+<img align="left" height=26px style="padding-right:5px" title="Streamlit" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/streamlit.png" />
+<img align="left" height=26px style="padding-right:5px" title="Node.js" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/nodejs.png" />
+<img align="left" height=26px style="padding-right:5px" title="React.js" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/reactjs.png" />
+<img align="left" height=26px style="padding-right:5px" title="Electron" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/electron.png" />
+<img align="left" height=26px style="padding-right:5px" title="MongoDB" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/mongodb.png" />
+<img align="left" height=26px style="padding-right:5px" title="Docker" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/docker.png" />
+<img align="left" height=26px style="padding-right:5px" title="Photoshop" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/photoshop.png" />
