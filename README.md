@@ -16,6 +16,8 @@ const me = new SoftwareDeveloper();
 me.sayHi();
 ```
 
+<img align='right' width="290" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/images/animation.gif" >
+
 <br>🎓 Pursuing my 4th year of B.Tech IT at Manipal University Jaipur
 <br>⚡ Hands-on experience working with C++, Python, and Kotlin
 <br>🧪 Currently exploring app development and machine learning
