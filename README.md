@@ -56,3 +56,8 @@ me.sayHi();
 <img align="left" height=26px style="padding-right:5px" title="MongoDB" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/mongodb.png" />
 <img align="left" height=26px style="padding-right:5px" title="Docker" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/docker.png" />
 <img align="left" height=26px style="padding-right:5px" title="Photoshop" src="https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/icons/photoshop.png" />
+
+<br><br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunal-ma&theme=codeSTACKr&hide_border=true&card_width=410)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kunal-ma&theme=codestackr&hide_border=true&card_width=410)
