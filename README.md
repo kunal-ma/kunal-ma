@@ -1,3 +1,10 @@
+[![Wakatime Stat](https://wakatime.com/badge/user/018df9ad-64cd-4551-9beb-ef560aba8275.svg)](https://wakatime.com/@018df9ad-64cd-4551-9beb-ef560aba8275)
+[![Profile Views](https://komarev.com/ghpvc/?username=kunal-ma&color=blueviolet)](https://github.com/kunal-ma)
+[![Website](https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/badges/website.svg)](https://kunalma.pages.dev)
+[![Email](https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/badges/email.svg)](mailto:kunalma23@gmail.com)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/badges/linkedin.svg)](https://www.linkedin.com/in/kunal-ma)
+[![LeetCode](https://cdn.jsdelivr.net/gh/kunal-ma/kunal-ma/badges/leetcode.svg)](https://www.leetcode.com/kunal-ma)
+
 ```js
 class SoftwareDeveloper {
     constructor() {
