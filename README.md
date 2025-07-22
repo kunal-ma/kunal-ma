@@ -1,5 +1,5 @@
-[![Wakatime Stat](https://wakatime.com/badge/user/018df9ad-64cd-4551-9beb-ef560aba8275.svg)](https://wakatime.com/@018df9ad-64cd-4551-9beb-ef560aba8275)
-[![Profile Views](https://komarev.com/ghpvc/?username=kunal-ma&color=blueviolet)](https://github.com/kunal-ma)
+[![Profile Views](https://komarev.com/ghpvc/?username=kunal-ma&color=orange)](https://github.com/kunal-ma)
+[![Ticksync](badges/ticksync.svg)](https://github.com/kunal-ma/Ticksync)
 [![Website](badges/website.svg)](https://kunalma.pages.dev)
 [![Email](badges/email.svg)](mailto:kunalma23@gmail.com)
 [![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/kunal-ma)
