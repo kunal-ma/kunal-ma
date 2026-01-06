@@ -9,26 +9,26 @@ My name is Kunal M.A., and I’m a **Full Stack Developer** from Ahmedabad, Indi
 
 ### Languages:
 
-<img align="left" height=32px style="padding-right:8px" title="Java" src="icons/java.png" />
-<img align="left" height=32px style="padding-right:8px" title="Python" src="icons/python.png" />
-<img align="left" height=32px style="padding-right:8px" title="Kotlin" src="icons/kotlin.png" />
-<img align="left" height=32px style="padding-right:8px" title="HTML/CSS" src="icons/html.png" />
-<img align="left" height=32px style="padding-right:8px" title="JavaScript" src="icons/javascript.png" />
-<img align="left" height=32px style="padding-right:8px" title="TypeScript" src="icons/typescript.png" />
+<picture><img align="left" height=32px style="padding-right:8px" title="Java" src="icons/java.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Python" src="icons/python.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Kotlin" src="icons/kotlin.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="HTML/CSS" src="icons/html.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="JavaScript" src="icons/javascript.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="TypeScript" src="icons/typescript.png" /></picture>
 
 <br /><br />
 
 ### Frameworks & Tools:
 
-<img align="left" height=32px style="padding-right:8px" title="Spring" src="icons/spring.png" />
-<img align="left" height=32px style="padding-right:8px" title="Jetpack Compose" src="icons/jetpack.png" />
-<img align="left" height=32px style="padding-right:8px" title="Node.js" src="icons/nodejs.png" />
-<img align="left" height=32px style="padding-right:8px" title="React.js" src="icons/reactjs.png" />
-<img align="left" height=32px style="padding-right:8px" title="Electron" src="icons/electron.png" />
-<img align="left" height=32px style="padding-right:8px" title="Bootstrap" src="icons/bootstrap.png" />
-<img align="left" height=32px style="padding-right:8px" title="MongoDB" src="icons/mongodb.png" />
-<img align="left" height=32px style="padding-right:8px" title="Docker" src="icons/docker.png" />
-<img align="left" height=32px style="padding-right:8px" title="Photoshop" src="icons/photoshop.png" />
+<picture><img align="left" height=32px style="padding-right:8px" title="Spring" src="icons/spring.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Jetpack Compose" src="icons/jetpack.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Node.js" src="icons/nodejs.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="React.js" src="icons/reactjs.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Electron" src="icons/electron.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Bootstrap" src="icons/bootstrap.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="MongoDB" src="icons/mongodb.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Docker" src="icons/docker.png" /></picture>
+<picture><img align="left" height=32px style="padding-right:8px" title="Photoshop" src="icons/photoshop.png" /></picture>
 
 <br /><br />
 
