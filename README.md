@@ -31,3 +31,13 @@ My name is Kunal M.A., and I’m a **Full Stack Developer** from Ahmedabad, Indi
 <img align="left" height=32px style="padding-right:8px" title="Photoshop" src="icons/photoshop.png" />
 
 <br /><br />
+
+---
+
+<div align="center">
+
+*⭐ Months of testing and bug fixes can save you hours of planning*
+
+**[Website](https://kunalma.com)** · **[Email](mailto:kunalma23@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kunal-ma/)**
+
+</div>
