@@ -1,63 +1,43 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=kunal-ma&color=orange)](https://github.com/kunal-ma)
-[![Ticksync](badges/ticksync.svg)](https://github.com/kunal-ma/Ticksync)
-[![Website](badges/website.svg)](https://kunalma.com)
-[![Email](badges/email.svg)](mailto:kunalma23@gmail.com)
-[![LinkedIn](badges/linkedin.svg)](https://www.linkedin.com/in/kunal-ma)
-[![LeetCode](badges/leetcode.svg)](https://www.leetcode.com/kunal-ma)
+## Hi there 👋🏼
 
-```js
-class SoftwareDeveloper {
-    constructor() {
-        this.name = "Kunal M.A.";
-        this.age = 21;
-        this.role = "Software Developer";
-        this.language = ["en", "hi", "kn"];
-    }
+My name is Kunal M.A., and I’m a **Full Stack Developer** from Ahmedabad, India. I have experience working with a variety of languages and frameworks, and I enjoy building projects that address real-world gaps, especially those I’ve experienced firsthand. Most of my professional work centers around:
 
-    sayHi() {
-        console.log("Hi there! Nice to meet you :)");
-    }
-}
-
-const me = new SoftwareDeveloper();
-me.sayHi();
-```
-
-<img align='right' width="290" src="images/animation.gif" >
-
-<br>🎓 Pursuing my 4th year of B.Tech IT at Manipal University Jaipur
-<br>⚡ Hands-on experience working with C++, Python, and Kotlin
-<br>🧪 Currently exploring app development and machine learning
-<br>🌱 Usually working (obsessing) on random projects in my free time
-<br>✨ Fun Fact: The first webcam was created to monitor a coffee pot
+- 🌐 Full-stack web applications built with modern frameworks
+- 🛠️ Scalable backend services, REST APIs, and system design
+- 🧩 Native Android application development using Kotlin
+- 🚀 CI/CD pipelines & deployment workflows using GitHub Actions
 
 ### Languages:
 
-<img align="left" height=26px style="padding-right:5px" title="C" src="icons/c.png" />
-<img align="left" height=26px style="padding-right:5px" title="C++" src="icons/cplusplus.png" />
-<img align="left" height=26px style="padding-right:5px" title="Python" src="icons/python.png" />
-<img align="left" height=26px style="padding-right:5px" title="Java" src="icons/java.png" />
-<img align="left" height=26px style="padding-right:5px" title="Kotlin" src="icons/kotlin.png" />
-<img align="left" height=26px style="padding-right:5px" title="HTML" src="icons/html.png" />
-<img align="left" height=26px style="padding-right:5px" title="CSS" src="icons/css.png" />
-<img align="left" height=26px style="padding-right:5px" title="JavaScript" src="icons/javascript.png" />
-<img align="left" height=26px style="padding-right:5px" title="TypeScript" src="icons/typescript.png" />
+<img align="left" height=32px style="padding-right:8px" title="Java" src="icons/java.png" />
+<img align="left" height=32px style="padding-right:8px" title="Python" src="icons/python.png" />
+<img align="left" height=32px style="padding-right:8px" title="Kotlin" src="icons/kotlin.png" />
+<img align="left" height=32px style="padding-right:8px" title="HTML/CSS" src="icons/html.png" />
+<img align="left" height=32px style="padding-right:8px" title="JavaScript" src="icons/javascript.png" />
+<img align="left" height=32px style="padding-right:8px" title="TypeScript" src="icons/typescript.png" />
 
-<br><br>
+<br /><br />
 
 ### Frameworks & Tools:
 
-<img align="left" height=26px style="padding-right:5px" title="Jetpack Compose" src="icons/jetpack.png" />
-<img align="left" height=26px style="padding-right:5px" title="TensorFlow" src="icons/tensorflow.png" />
-<img align="left" height=26px style="padding-right:5px" title="Streamlit" src="icons/streamlit.png" />
-<img align="left" height=26px style="padding-right:5px" title="Node.js" src="icons/nodejs.png" />
-<img align="left" height=26px style="padding-right:5px" title="React.js" src="icons/reactjs.png" />
-<img align="left" height=26px style="padding-right:5px" title="Electron" src="icons/electron.png" />
-<img align="left" height=26px style="padding-right:5px" title="MongoDB" src="icons/mongodb.png" />
-<img align="left" height=26px style="padding-right:5px" title="Docker" src="icons/docker.png" />
-<img align="left" height=26px style="padding-right:5px" title="Photoshop" src="icons/photoshop.png" />
+<img align="left" height=32px style="padding-right:8px" title="Spring" src="icons/spring.png" />
+<img align="left" height=32px style="padding-right:8px" title="Jetpack Compose" src="icons/jetpack.png" />
+<img align="left" height=32px style="padding-right:8px" title="Node.js" src="icons/nodejs.png" />
+<img align="left" height=32px style="padding-right:8px" title="React.js" src="icons/reactjs.png" />
+<img align="left" height=32px style="padding-right:8px" title="Electron" src="icons/electron.png" />
+<img align="left" height=32px style="padding-right:8px" title="Bootstrap" src="icons/bootstrap.png" />
+<img align="left" height=32px style="padding-right:8px" title="MongoDB" src="icons/mongodb.png" />
+<img align="left" height=32px style="padding-right:8px" title="Docker" src="icons/docker.png" />
+<img align="left" height=32px style="padding-right:8px" title="Photoshop" src="icons/photoshop.png" />
 
-<br><br>
+<br /><br />
 
-![GitHub Stats](statistics/github.svg)
-![GitHub Streak](statistics/streak.svg)
+---
+
+<div align="center">
+
+*⭐ Months of testing and bug fixes can save you hours of planning*
+
+**[Website](https://kunalma.com)** · **[Email](mailto:kunalma23@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kunal-ma/)**
+
+</div>
