@@ -59,5 +59,5 @@ me.sayHi();
 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunal-ma&theme=codeSTACKr&hide_border=true&card_width=410)
-![GitHub Streak](https://streak-stats.demolab.com/?user=kunal-ma&theme=codestackr&hide_border=true&card_width=410)
+![GitHub Stats](statistics/github.svg)
+![GitHub Streak](statistics/streak.svg)
