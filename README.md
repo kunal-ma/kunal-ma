@@ -36,7 +36,7 @@ My name is Kunal M.A., and I’m a **Full Stack Developer** from Ahmedabad, Indi
 
 <div align="center">
 
-*⭐ Months of testing and bug fixes can save you hours of planning*
+*⭐ “Talk is cheap. Show me the code.” - Linus Torvalds*
 
 **[Website](https://kunalma.com)** · **[Email](mailto:kunalma23@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kunal-ma/)**
 
